@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_favorito"
+        android:icon="@drawable/star_48"
+        android:title="@string/action_favoritos"
+        android:enabled="true"
+        app:showAsAction="always"/>
+    <item android:id="@+id/mAbout"
+        android:title="@string/menu_about"
+        android:orderInCategory="1"></item>
+    <item android:id="@+id/mFormulario"
+        android:title="@string/menu_contacto"
+        android:orderInCategory="2"></item>
+</menu>

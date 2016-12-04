@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9bb9257495e049867c2e026d1407fd38df91cdb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a84024eab8ede63784f6711dd24f9e80cea37f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_9f4f2bb32c191514cf5cba9f37ae5fd6e8351dd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_95b28903b08b99ddd0cbeee330293d128fcc00f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_25e4827133a23d9edd7412112d8c9fec16943786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ed241d34ad7d0717de33000f0df2430cfb255dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d3c1a02c1a449e4aa7b1c8a8eb9994bb12b9b1d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_45272e89f52e1784f0b1c61e96262df1fd3b8508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_dc5fc916304259e49626aa10944e521079c386c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f666ac591517c8dcb1606a905743fcf986bca2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b50640e846c34898bfba3edfe13ac43a217a292b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e461aec5b1c9627fb6c0ba6fdab847866109ad33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_14d41103cb34200eb2d48e2a9240e89d2c586c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_98944c681e8ee9e27726a1f08e3390ff8d860cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_822edf8b4bae280cb5d51271a332695d69c0e92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4143cfbcc1d15167512b0d671dd7383087e71e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c07979af4396425af04645b76468a8fb2264c905">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfd57d3f024fce85408a29e36005162582a098aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7841109e0899eb818e249b639a6ea526b182e60c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3e42b22384245d38c257db5d01c6da8018d29104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0f004b440b81849c9b6fc6a924f1ced1a0f8972c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_331e3b93a91fb37aa71e66b7ecb9f068fd651ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_9b384530f9c87fdb53e58c671ea1f437a24d8288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ecbe037c2b31579f831dad347a9ffa93a3a7decf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f7960dedb4403822f0880a453cdf8379b4a3d303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_67e976f983ebb31e1f5dce17c98083aaff3d5191/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a21c49b50a7109aca83a50c74fa422a984721e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_33291a554fa655d10565c9184784bc7305b4aae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d2fbbcd8c828b36237590229dc623d71c0939562">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7a7f848361556a5d39965176fbf078b53a03b3d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_63eb620ac9d7c7d3f8eb6d15c49050b7970c562b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_7eeb33c1f2f958c4a2b17f0b72e882fcf0460bfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_43c6212fbc47dd18bec54f5985fbd187fc18d001/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_4beb050aeb382ec8c57c129a6c9a6d2e807a8c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a7ea1ac931a43477e39bedd53309a5d944e826dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c469d1de227499798e79a4953ca0baacbf8037d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_fec9b12fff9c6b726bfe7f3d8e7128db8f2fa9b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="005096bb441f56565df619176fdf56502b1fb153">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d1a19d65101e6e17af6cb66d563157ea0aa009f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e1925bdf7cc79199b1b6846e524329e0a2e094ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c941ae0ccd0bc4b87fb02a0e12c3ca4fbbbb0e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3cea97778d3333b234572fafe2658140167c953">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8e2ae562044abd53af63a32dcfaa2080d718f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_13f4a4351339bd4898f4a18c09bd9543bcbad0a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana4/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_02f4dd30bbb28ca3cb6606ce0ee6c10059ad89e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_96ed202ae8b8a92e109de82f450bbcd4e786ab1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana5/MascotasWithFragments/MascotasWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_47b66d53acde10567741b46ca19d7f18a4624d72/classes.dex" />
+    </item>
+
+</items>

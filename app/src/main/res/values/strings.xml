@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RatingMascotas</string>
+    <string name="pnombre">nombre</string>
+    <string name="prating">raiting</string>
+    <string name="action_favoritos">raiting</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="texto_formulario">Formulario</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ptelefono">telefono</string>
+    <string name="plikes">0 likes</string>
+</resources>
